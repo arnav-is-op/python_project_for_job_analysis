@@ -221,7 +221,7 @@ Before diving into skills analysis, the first notebook explores the overall land
 
 #### 🇮🇳 India
 
-![Salary Analysis India](images/6_salary_analysis_India.png)
+![Salary Analysis India](images\6_salary_analysis_India.png.png)
 
 **Key Insights:**
 - **Highest-paid skills are niche** — tools like `dplyr`, `Bitbucket`, `GitLab` (US) and `PySpark`, `Linux`, `GitLab` (India) command top salaries up to $200K.
