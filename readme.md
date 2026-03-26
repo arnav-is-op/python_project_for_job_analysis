@@ -202,10 +202,21 @@ Before diving into skills analysis, the first notebook explores the overall land
 ![Skills Trend India](images/4_skills_trend_India.png)
 
 **Key Insights:**
-- **SQL is the most consistently demanded skill** all year, though it shows a gradual decline from ~63% to ~55%.
-- **Excel surged in Q4**, overtaking Python and Tableau by December — likely tied to year-end reporting cycles.
-- **Python and Tableau remain stable** with minor fluctuations, confirming their status as essential baseline skills.
-- **Power BI shows a slight upward trend** toward year-end, suggesting growing adoption.
+Looking at both graphs, here are the updated insights:
+
+**🇺🇸 United States**
+
+SQL is the most consistently demanded skill all year, gradually declining from ~63% to ~55%.
+Excel surged in Q4, overtaking Python and Tableau by December — likely tied to year-end reporting cycles.
+Python and Tableau remain stable throughout the year, confirming their status as essential baseline skills.
+Power BI is the lowest demanded skill but shows a slight upward trend toward year-end.
+
+**🇮🇳 India**
+
+SQL dominates all year but shows more volatility than the US — spiking to ~69% in May before settling around ~62%.
+Python and Excel are neck and neck all year, both hovering around 35–45%, unlike the US where Excel clearly leads over Python.
+Tableau stays relatively flat around 28–41%, showing consistent demand.
+Power BI in India follows a similar low but steady pattern as the US, staying around 18–30%.
 
 ---
 
